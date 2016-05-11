@@ -1,8 +1,6 @@
 ##WMATA incidents bot
 
-Elaine Hunt
-Danielle Ling
-Daniel Trielli
+Elaine Hunt, Danielle Ling and Daniel Trielli
 
 
 Inspired by the common occurrences of incidents and problems in the Washington DC Metro, our idea was to create a Twitter bot that alerts followers about metro incidents in real time. 
